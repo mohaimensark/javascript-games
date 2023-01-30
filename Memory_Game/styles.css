@@ -1,10 +1,12 @@
-.grid {
-  width: 606px;
-  height: 606px;
+#grid {
+  width: 500px;
+  height: 300px;
   display: flex;
   flex-wrap: wrap;
 }
-
+#result {
+  margin-top: 400px;
+}
 .square {
   height: 200px;
   width: 200px;
